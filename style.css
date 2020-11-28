@@ -1,0 +1,12 @@
+body{
+text-align: center;
+background: linear-gradient(#07bd40 35%,#00ffe5 100%);
+background-repeat: no-repeat;
+font-size: 18px;
+padding: 20px;
+text-shadow: 2px 2px #FAFAFA;
+}
+img{
+height: 300px;
+border-radius: 50%;
+}
